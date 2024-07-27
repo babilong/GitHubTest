@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.cpp
-HelloWorld.h
-D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.h
-iostream
--
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/Calcualtor.cpp
+Calcualtor.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/Calcualtor.h
+
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/Calcualtor.h
 
 D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.h
 
@@ -19,4 +19,6 @@ bits/stdc++.h
 -
 HelloWorld.h
 D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.h
+Calcualtor.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/Calcualtor.h
 

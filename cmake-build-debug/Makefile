@@ -128,6 +128,30 @@ GitHubTest/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/build
 .PHONY : GitHubTest/fast
 
+Calcualtor.obj: Calcualtor.cpp.obj
+.PHONY : Calcualtor.obj
+
+# target to build an object file
+Calcualtor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/Calcualtor.cpp.obj
+.PHONY : Calcualtor.cpp.obj
+
+Calcualtor.i: Calcualtor.cpp.i
+.PHONY : Calcualtor.i
+
+# target to preprocess a source file
+Calcualtor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/Calcualtor.cpp.i
+.PHONY : Calcualtor.cpp.i
+
+Calcualtor.s: Calcualtor.cpp.s
+.PHONY : Calcualtor.s
+
+# target to generate assembly for a file
+Calcualtor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/Calcualtor.cpp.s
+.PHONY : Calcualtor.cpp.s
+
 HelloWorld.obj: HelloWorld.cpp.obj
 .PHONY : HelloWorld.obj
 
@@ -185,6 +209,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... GitHubTest
+	@echo ... Calcualtor.obj
+	@echo ... Calcualtor.i
+	@echo ... Calcualtor.s
 	@echo ... HelloWorld.obj
 	@echo ... HelloWorld.i
 	@echo ... HelloWorld.s
