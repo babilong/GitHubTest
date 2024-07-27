@@ -11,6 +11,7 @@ CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.obj: \
  ../hello/HelloWorld.cpp \
  ../hello/HelloWorld.h
 CMakeFiles/GitHubTest.dir/main.cpp.obj: \
+ ../AFT.h \
  ../hello/HelloAgain.h \
  ../hello/HelloWorld.h \
  ../main.cpp \
