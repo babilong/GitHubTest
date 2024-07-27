@@ -8,5 +8,6 @@ using namespace std;
 
 int main() {
     cout << "Apple Down" << endl;
+    cout << "Edit" << endl;
     return 0;
 }
