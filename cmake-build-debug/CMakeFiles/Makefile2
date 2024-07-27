@@ -80,12 +80,12 @@ clean: CMakeFiles/GitHubTest.dir/clean
 CMakeFiles/GitHubTest.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target GitHubTest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target GitHubTest"
 .PHONY : CMakeFiles/GitHubTest.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/GitHubTest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/GitHubTest.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/GitHubTest.dir/rule

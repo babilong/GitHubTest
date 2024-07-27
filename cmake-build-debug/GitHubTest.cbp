@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/Apple.cpp">
+			<Option target="GitHubTest"/>
+		</Unit>
+		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/Apple.h">
+			<Option target="GitHubTest"/>
+		</Unit>
 		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/MasterBranch.cpp">
 			<Option target="GitHubTest"/>
 		</Unit>

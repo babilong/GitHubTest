@@ -7,8 +7,6 @@
 using namespace std;
 
 int main() {
-    HelloWorldDisplay();
-    HelloFirstDisplay();
-    HelloSecondDisplay();
+    cout << "Apple" << endl;
     return 0;
 }

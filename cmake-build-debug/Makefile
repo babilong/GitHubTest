@@ -128,6 +128,30 @@ GitHubTest/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/build
 .PHONY : GitHubTest/fast
 
+Apple.obj: Apple.cpp.obj
+.PHONY : Apple.obj
+
+# target to build an object file
+Apple.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/Apple.cpp.obj
+.PHONY : Apple.cpp.obj
+
+Apple.i: Apple.cpp.i
+.PHONY : Apple.i
+
+# target to preprocess a source file
+Apple.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/Apple.cpp.i
+.PHONY : Apple.cpp.i
+
+Apple.s: Apple.cpp.s
+.PHONY : Apple.s
+
+# target to generate assembly for a file
+Apple.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/Apple.cpp.s
+.PHONY : Apple.cpp.s
+
 MasterBranch.obj: MasterBranch.cpp.obj
 .PHONY : MasterBranch.obj
 
@@ -281,6 +305,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... GitHubTest
+	@echo ... Apple.obj
+	@echo ... Apple.i
+	@echo ... Apple.s
 	@echo ... MasterBranch.obj
 	@echo ... MasterBranch.i
 	@echo ... MasterBranch.s
