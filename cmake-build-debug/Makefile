@@ -128,6 +128,30 @@ GitHubTest/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/build
 .PHONY : GitHubTest/fast
 
+MasterBranch.obj: MasterBranch.cpp.obj
+.PHONY : MasterBranch.obj
+
+# target to build an object file
+MasterBranch.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/MasterBranch.cpp.obj
+.PHONY : MasterBranch.cpp.obj
+
+MasterBranch.i: MasterBranch.cpp.i
+.PHONY : MasterBranch.i
+
+# target to preprocess a source file
+MasterBranch.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/MasterBranch.cpp.i
+.PHONY : MasterBranch.cpp.i
+
+MasterBranch.s: MasterBranch.cpp.s
+.PHONY : MasterBranch.s
+
+# target to generate assembly for a file
+MasterBranch.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/MasterBranch.cpp.s
+.PHONY : MasterBranch.cpp.s
+
 hello/HelloFirst.obj: hello/HelloFirst.cpp.obj
 .PHONY : hello/HelloFirst.obj
 
@@ -257,6 +281,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... GitHubTest
+	@echo ... MasterBranch.obj
+	@echo ... MasterBranch.i
+	@echo ... MasterBranch.s
 	@echo ... hello/HelloFirst.obj
 	@echo ... hello/HelloFirst.i
 	@echo ... hello/HelloFirst.s

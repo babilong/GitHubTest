@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/GitHubTest.dir/MasterBranch.cpp.obj"
   "CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.obj"
   "CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.obj"
   "CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.obj"

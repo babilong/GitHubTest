@@ -7,6 +7,8 @@
 using namespace std;
 
 int main() {
-
+    HelloWorldDisplay();
+    HelloFirstDisplay();
+    HelloSecondDisplay();
     return 0;
 }

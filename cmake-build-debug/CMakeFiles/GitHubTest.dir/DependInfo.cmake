@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/A-Worksapce/A-GitHubRepo/GitHubTest/MasterBranch.cpp" "D:/A-Worksapce/A-GitHubRepo/GitHubTest/cmake-build-debug/CMakeFiles/GitHubTest.dir/MasterBranch.cpp.obj"
   "D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloFirst.cpp" "D:/A-Worksapce/A-GitHubRepo/GitHubTest/cmake-build-debug/CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.obj"
   "D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloSecond.cpp" "D:/A-Worksapce/A-GitHubRepo/GitHubTest/cmake-build-debug/CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.obj"
   "D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloWorld.cpp" "D:/A-Worksapce/A-GitHubRepo/GitHubTest/cmake-build-debug/CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.obj"
