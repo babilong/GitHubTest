@@ -1,10 +1,13 @@
 #include <bits/stdc++.h>
-#include "HelloWorld.h"
-#include "Calcualtor.h"
+#include "hello/HelloWorld.h"
+#include "hello/HelloAgain.h"
+#include "src/Calcualtor.h"
 
 using namespace std;
 
 int main() {
     HelloWorldDisplay();
+    HelloFirstDisplay();
+    HelloSecondDisplay();
     return 0;
 }

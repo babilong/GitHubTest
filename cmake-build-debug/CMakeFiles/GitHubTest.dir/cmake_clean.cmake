@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/GitHubTest.dir/Calcualtor.cpp.obj"
-  "CMakeFiles/GitHubTest.dir/HelloWorld.cpp.obj"
+  "CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.obj"
+  "CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.obj"
+  "CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.obj"
   "CMakeFiles/GitHubTest.dir/main.cpp.obj"
+  "CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.obj"
   "GitHubTest.exe"
   "GitHubTest.exe.manifest"
   "GitHubTest.pdb"

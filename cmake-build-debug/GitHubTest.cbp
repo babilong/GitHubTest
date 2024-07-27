@@ -80,19 +80,28 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/Calcualtor.cpp">
+		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloAgain.h">
 			<Option target="GitHubTest"/>
 		</Unit>
-		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/Calcualtor.h">
+		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloFirst.cpp">
 			<Option target="GitHubTest"/>
 		</Unit>
-		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.cpp">
+		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloSecond.cpp">
 			<Option target="GitHubTest"/>
 		</Unit>
-		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.h">
+		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloWorld.cpp">
+			<Option target="GitHubTest"/>
+		</Unit>
+		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloWorld.h">
 			<Option target="GitHubTest"/>
 		</Unit>
 		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/main.cpp">
+			<Option target="GitHubTest"/>
+		</Unit>
+		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/src/Calcualtor.cpp">
+			<Option target="GitHubTest"/>
+		</Unit>
+		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/src/Calcualtor.h">
 			<Option target="GitHubTest"/>
 		</Unit>
 		<Unit filename="D:/A-Worksapce/A-GitHubRepo/GitHubTest/CMakeLists.txt">

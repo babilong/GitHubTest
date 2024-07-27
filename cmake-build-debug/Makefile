@@ -128,53 +128,77 @@ GitHubTest/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/build
 .PHONY : GitHubTest/fast
 
-Calcualtor.obj: Calcualtor.cpp.obj
-.PHONY : Calcualtor.obj
+hello/HelloFirst.obj: hello/HelloFirst.cpp.obj
+.PHONY : hello/HelloFirst.obj
 
 # target to build an object file
-Calcualtor.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/Calcualtor.cpp.obj
-.PHONY : Calcualtor.cpp.obj
+hello/HelloFirst.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.obj
+.PHONY : hello/HelloFirst.cpp.obj
 
-Calcualtor.i: Calcualtor.cpp.i
-.PHONY : Calcualtor.i
+hello/HelloFirst.i: hello/HelloFirst.cpp.i
+.PHONY : hello/HelloFirst.i
 
 # target to preprocess a source file
-Calcualtor.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/Calcualtor.cpp.i
-.PHONY : Calcualtor.cpp.i
+hello/HelloFirst.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.i
+.PHONY : hello/HelloFirst.cpp.i
 
-Calcualtor.s: Calcualtor.cpp.s
-.PHONY : Calcualtor.s
+hello/HelloFirst.s: hello/HelloFirst.cpp.s
+.PHONY : hello/HelloFirst.s
 
 # target to generate assembly for a file
-Calcualtor.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/Calcualtor.cpp.s
-.PHONY : Calcualtor.cpp.s
+hello/HelloFirst.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.s
+.PHONY : hello/HelloFirst.cpp.s
 
-HelloWorld.obj: HelloWorld.cpp.obj
-.PHONY : HelloWorld.obj
+hello/HelloSecond.obj: hello/HelloSecond.cpp.obj
+.PHONY : hello/HelloSecond.obj
 
 # target to build an object file
-HelloWorld.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/HelloWorld.cpp.obj
-.PHONY : HelloWorld.cpp.obj
+hello/HelloSecond.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.obj
+.PHONY : hello/HelloSecond.cpp.obj
 
-HelloWorld.i: HelloWorld.cpp.i
-.PHONY : HelloWorld.i
+hello/HelloSecond.i: hello/HelloSecond.cpp.i
+.PHONY : hello/HelloSecond.i
 
 # target to preprocess a source file
-HelloWorld.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/HelloWorld.cpp.i
-.PHONY : HelloWorld.cpp.i
+hello/HelloSecond.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.i
+.PHONY : hello/HelloSecond.cpp.i
 
-HelloWorld.s: HelloWorld.cpp.s
-.PHONY : HelloWorld.s
+hello/HelloSecond.s: hello/HelloSecond.cpp.s
+.PHONY : hello/HelloSecond.s
 
 # target to generate assembly for a file
-HelloWorld.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/HelloWorld.cpp.s
-.PHONY : HelloWorld.cpp.s
+hello/HelloSecond.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.s
+.PHONY : hello/HelloSecond.cpp.s
+
+hello/HelloWorld.obj: hello/HelloWorld.cpp.obj
+.PHONY : hello/HelloWorld.obj
+
+# target to build an object file
+hello/HelloWorld.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.obj
+.PHONY : hello/HelloWorld.cpp.obj
+
+hello/HelloWorld.i: hello/HelloWorld.cpp.i
+.PHONY : hello/HelloWorld.i
+
+# target to preprocess a source file
+hello/HelloWorld.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.i
+.PHONY : hello/HelloWorld.cpp.i
+
+hello/HelloWorld.s: hello/HelloWorld.cpp.s
+.PHONY : hello/HelloWorld.s
+
+# target to generate assembly for a file
+hello/HelloWorld.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.s
+.PHONY : hello/HelloWorld.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -200,6 +224,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/Calcualtor.obj: src/Calcualtor.cpp.obj
+.PHONY : src/Calcualtor.obj
+
+# target to build an object file
+src/Calcualtor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.obj
+.PHONY : src/Calcualtor.cpp.obj
+
+src/Calcualtor.i: src/Calcualtor.cpp.i
+.PHONY : src/Calcualtor.i
+
+# target to preprocess a source file
+src/Calcualtor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.i
+.PHONY : src/Calcualtor.cpp.i
+
+src/Calcualtor.s: src/Calcualtor.cpp.s
+.PHONY : src/Calcualtor.s
+
+# target to generate assembly for a file
+src/Calcualtor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.s
+.PHONY : src/Calcualtor.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -209,15 +257,21 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... GitHubTest
-	@echo ... Calcualtor.obj
-	@echo ... Calcualtor.i
-	@echo ... Calcualtor.s
-	@echo ... HelloWorld.obj
-	@echo ... HelloWorld.i
-	@echo ... HelloWorld.s
+	@echo ... hello/HelloFirst.obj
+	@echo ... hello/HelloFirst.i
+	@echo ... hello/HelloFirst.s
+	@echo ... hello/HelloSecond.obj
+	@echo ... hello/HelloSecond.i
+	@echo ... hello/HelloSecond.s
+	@echo ... hello/HelloWorld.obj
+	@echo ... hello/HelloWorld.i
+	@echo ... hello/HelloWorld.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... src/Calcualtor.obj
+	@echo ... src/Calcualtor.i
+	@echo ... src/Calcualtor.s
 .PHONY : help
 
 

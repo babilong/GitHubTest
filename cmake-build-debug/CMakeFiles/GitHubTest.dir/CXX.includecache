@@ -6,19 +6,41 @@
 
 #IncludeRegexTransform: 
 
-D:/A-Worksapce/A-GitHubRepo/GitHubTest/Calcualtor.cpp
-Calcualtor.h
-D:/A-Worksapce/A-GitHubRepo/GitHubTest/Calcualtor.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloAgain.h
 
-D:/A-Worksapce/A-GitHubRepo/GitHubTest/Calcualtor.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloFirst.cpp
+iostream
+-
+HelloAgain.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloAgain.h
 
-D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloSecond.cpp
+iostream
+-
+HelloAgain.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloAgain.h
+
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloWorld.cpp
+HelloWorld.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloWorld.h
+iostream
+-
+
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloWorld.h
 
 D:/A-Worksapce/A-GitHubRepo/GitHubTest/main.cpp
 bits/stdc++.h
 -
-HelloWorld.h
-D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.h
+hello/HelloWorld.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloWorld.h
+hello/HelloAgain.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/hello/HelloAgain.h
+src/Calcualtor.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/src/Calcualtor.h
+
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/src/Calcualtor.cpp
 Calcualtor.h
-D:/A-Worksapce/A-GitHubRepo/GitHubTest/Calcualtor.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/src/Calcualtor.h
+
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/src/Calcualtor.h
 

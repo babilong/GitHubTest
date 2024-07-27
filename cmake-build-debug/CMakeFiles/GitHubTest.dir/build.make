@@ -78,49 +78,79 @@ CMakeFiles/GitHubTest.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GitHubTest.dir/main.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\A-Worksapce\A-GitHubRepo\GitHubTest\main.cpp -o CMakeFiles\GitHubTest.dir\main.cpp.s
 
-CMakeFiles/GitHubTest.dir/HelloWorld.cpp.obj: CMakeFiles/GitHubTest.dir/flags.make
-CMakeFiles/GitHubTest.dir/HelloWorld.cpp.obj: ../HelloWorld.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/GitHubTest.dir/HelloWorld.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\GitHubTest.dir\HelloWorld.cpp.obj -c D:\A-Worksapce\A-GitHubRepo\GitHubTest\HelloWorld.cpp
+CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.obj: CMakeFiles/GitHubTest.dir/flags.make
+CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.obj: ../hello/HelloWorld.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\GitHubTest.dir\hello\HelloWorld.cpp.obj -c D:\A-Worksapce\A-GitHubRepo\GitHubTest\hello\HelloWorld.cpp
 
-CMakeFiles/GitHubTest.dir/HelloWorld.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GitHubTest.dir/HelloWorld.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\A-Worksapce\A-GitHubRepo\GitHubTest\HelloWorld.cpp > CMakeFiles\GitHubTest.dir\HelloWorld.cpp.i
+CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\A-Worksapce\A-GitHubRepo\GitHubTest\hello\HelloWorld.cpp > CMakeFiles\GitHubTest.dir\hello\HelloWorld.cpp.i
 
-CMakeFiles/GitHubTest.dir/HelloWorld.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GitHubTest.dir/HelloWorld.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\A-Worksapce\A-GitHubRepo\GitHubTest\HelloWorld.cpp -o CMakeFiles\GitHubTest.dir\HelloWorld.cpp.s
+CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\A-Worksapce\A-GitHubRepo\GitHubTest\hello\HelloWorld.cpp -o CMakeFiles\GitHubTest.dir\hello\HelloWorld.cpp.s
 
-CMakeFiles/GitHubTest.dir/Calcualtor.cpp.obj: CMakeFiles/GitHubTest.dir/flags.make
-CMakeFiles/GitHubTest.dir/Calcualtor.cpp.obj: ../Calcualtor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/GitHubTest.dir/Calcualtor.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\GitHubTest.dir\Calcualtor.cpp.obj -c D:\A-Worksapce\A-GitHubRepo\GitHubTest\Calcualtor.cpp
+CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.obj: CMakeFiles/GitHubTest.dir/flags.make
+CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.obj: ../src/Calcualtor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\GitHubTest.dir\src\Calcualtor.cpp.obj -c D:\A-Worksapce\A-GitHubRepo\GitHubTest\src\Calcualtor.cpp
 
-CMakeFiles/GitHubTest.dir/Calcualtor.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GitHubTest.dir/Calcualtor.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\A-Worksapce\A-GitHubRepo\GitHubTest\Calcualtor.cpp > CMakeFiles\GitHubTest.dir\Calcualtor.cpp.i
+CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\A-Worksapce\A-GitHubRepo\GitHubTest\src\Calcualtor.cpp > CMakeFiles\GitHubTest.dir\src\Calcualtor.cpp.i
 
-CMakeFiles/GitHubTest.dir/Calcualtor.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GitHubTest.dir/Calcualtor.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\A-Worksapce\A-GitHubRepo\GitHubTest\Calcualtor.cpp -o CMakeFiles\GitHubTest.dir\Calcualtor.cpp.s
+CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\A-Worksapce\A-GitHubRepo\GitHubTest\src\Calcualtor.cpp -o CMakeFiles\GitHubTest.dir\src\Calcualtor.cpp.s
+
+CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.obj: CMakeFiles/GitHubTest.dir/flags.make
+CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.obj: ../hello/HelloFirst.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\GitHubTest.dir\hello\HelloFirst.cpp.obj -c D:\A-Worksapce\A-GitHubRepo\GitHubTest\hello\HelloFirst.cpp
+
+CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\A-Worksapce\A-GitHubRepo\GitHubTest\hello\HelloFirst.cpp > CMakeFiles\GitHubTest.dir\hello\HelloFirst.cpp.i
+
+CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\A-Worksapce\A-GitHubRepo\GitHubTest\hello\HelloFirst.cpp -o CMakeFiles\GitHubTest.dir\hello\HelloFirst.cpp.s
+
+CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.obj: CMakeFiles/GitHubTest.dir/flags.make
+CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.obj: ../hello/HelloSecond.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\GitHubTest.dir\hello\HelloSecond.cpp.obj -c D:\A-Worksapce\A-GitHubRepo\GitHubTest\hello\HelloSecond.cpp
+
+CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\A-Worksapce\A-GitHubRepo\GitHubTest\hello\HelloSecond.cpp > CMakeFiles\GitHubTest.dir\hello\HelloSecond.cpp.i
+
+CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\A-Worksapce\A-GitHubRepo\GitHubTest\hello\HelloSecond.cpp -o CMakeFiles\GitHubTest.dir\hello\HelloSecond.cpp.s
 
 # Object files for target GitHubTest
 GitHubTest_OBJECTS = \
 "CMakeFiles/GitHubTest.dir/main.cpp.obj" \
-"CMakeFiles/GitHubTest.dir/HelloWorld.cpp.obj" \
-"CMakeFiles/GitHubTest.dir/Calcualtor.cpp.obj"
+"CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.obj" \
+"CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.obj" \
+"CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.obj" \
+"CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.obj"
 
 # External object files for target GitHubTest
 GitHubTest_EXTERNAL_OBJECTS =
 
 GitHubTest.exe: CMakeFiles/GitHubTest.dir/main.cpp.obj
-GitHubTest.exe: CMakeFiles/GitHubTest.dir/HelloWorld.cpp.obj
-GitHubTest.exe: CMakeFiles/GitHubTest.dir/Calcualtor.cpp.obj
+GitHubTest.exe: CMakeFiles/GitHubTest.dir/hello/HelloWorld.cpp.obj
+GitHubTest.exe: CMakeFiles/GitHubTest.dir/src/Calcualtor.cpp.obj
+GitHubTest.exe: CMakeFiles/GitHubTest.dir/hello/HelloFirst.cpp.obj
+GitHubTest.exe: CMakeFiles/GitHubTest.dir/hello/HelloSecond.cpp.obj
 GitHubTest.exe: CMakeFiles/GitHubTest.dir/build.make
 GitHubTest.exe: CMakeFiles/GitHubTest.dir/linklibs.rsp
 GitHubTest.exe: CMakeFiles/GitHubTest.dir/objects1.rsp
 GitHubTest.exe: CMakeFiles/GitHubTest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable GitHubTest.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\A-Worksapce\A-GitHubRepo\GitHubTest\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable GitHubTest.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\GitHubTest.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
