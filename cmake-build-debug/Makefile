@@ -128,6 +128,30 @@ GitHubTest/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/build
 .PHONY : GitHubTest/fast
 
+HelloWorld.obj: HelloWorld.cpp.obj
+.PHONY : HelloWorld.obj
+
+# target to build an object file
+HelloWorld.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/HelloWorld.cpp.obj
+.PHONY : HelloWorld.cpp.obj
+
+HelloWorld.i: HelloWorld.cpp.i
+.PHONY : HelloWorld.i
+
+# target to preprocess a source file
+HelloWorld.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/HelloWorld.cpp.i
+.PHONY : HelloWorld.cpp.i
+
+HelloWorld.s: HelloWorld.cpp.s
+.PHONY : HelloWorld.s
+
+# target to generate assembly for a file
+HelloWorld.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GitHubTest.dir\build.make CMakeFiles/GitHubTest.dir/HelloWorld.cpp.s
+.PHONY : HelloWorld.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +185,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... GitHubTest
+	@echo ... HelloWorld.obj
+	@echo ... HelloWorld.i
+	@echo ... HelloWorld.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

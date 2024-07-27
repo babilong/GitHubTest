@@ -6,7 +6,17 @@
 
 #IncludeRegexTransform: 
 
-D:/A-Worksapce/A-GitHubRepo/GitHubTest/main.cpp
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.cpp
+HelloWorld.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.h
 iostream
 -
+
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.h
+
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/main.cpp
+bits/stdc++.h
+-
+HelloWorld.h
+D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.h
 

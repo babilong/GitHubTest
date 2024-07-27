@@ -1,6 +1,9 @@
-#include <iostream>
+#include <bits/stdc++.h>
+#include "HelloWorld.h"
+
+using namespace std;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    HelloWorldDisplay();
     return 0;
 }

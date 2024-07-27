@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/A-Worksapce/A-GitHubRepo/GitHubTest/HelloWorld.cpp" "D:/A-Worksapce/A-GitHubRepo/GitHubTest/cmake-build-debug/CMakeFiles/GitHubTest.dir/HelloWorld.cpp.obj"
   "D:/A-Worksapce/A-GitHubRepo/GitHubTest/main.cpp" "D:/A-Worksapce/A-GitHubRepo/GitHubTest/cmake-build-debug/CMakeFiles/GitHubTest.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

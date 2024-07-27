@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/GitHubTest.dir/HelloWorld.cpp.obj"
   "CMakeFiles/GitHubTest.dir/main.cpp.obj"
   "GitHubTest.exe"
   "GitHubTest.exe.manifest"
