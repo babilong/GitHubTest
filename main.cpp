@@ -12,5 +12,6 @@ int main() {
     cout << "I Submit no NewFile" << endl;
     cout << "Mate Edit" << endl;
     cout << "hh" << endl;
+    cout << "hhh" << endl;
     return 0;
 }
