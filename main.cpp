@@ -10,5 +10,6 @@ int main() {
     cout << "Apple Down" << endl;
     cout << "Edit" << endl;
     cout << "I Submit no NewFile" << endl;
+    cout << "Mate Edit" <<endl;
     return 0;
 }
